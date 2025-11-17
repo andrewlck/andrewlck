@@ -10,7 +10,7 @@ A little about me...
 
 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
-<div align="center"> <a href="https://github.com/Eduardoblanco18"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardoblanco18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoblanco18&layout=compact&langs_count=16&theme=dracula"/> </a> </div>
+<div align="center"> <a href="https://github.com/awlogod"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardoblanco18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoblanco18&layout=compact&langs_count=16&theme=dracula"/> </a> </div>
 
 
 Skills & Tools:
